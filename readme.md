@@ -37,11 +37,21 @@ This service is a simple example to create and replicate information to all node
 
 ## Run project
 
+First of all, install dependencies:
+
+```bash
+  npm install
+```
+
 To run locally:
 
 ```bash
   npm run start
 ```
+
+## Hands on
+
+![](https://github.com/fernando-pires47/node-grenache-orderbook/blob/main/images/log.png)
 
 ## References
 
