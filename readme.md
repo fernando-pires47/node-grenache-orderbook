@@ -51,6 +51,8 @@ To run locally:
 
 ## Hands on
 
+#### Application log
+
 ![](https://github.com/fernando-pires47/node-grenache-orderbook/blob/main/images/log.png)
 
 ## References
